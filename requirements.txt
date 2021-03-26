@@ -1,0 +1,4 @@
+haikunator
+pygithub
+gitpython
+python-dotenv
