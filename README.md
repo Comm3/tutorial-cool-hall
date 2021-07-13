@@ -11,7 +11,7 @@ Create local repo in sync with new GitHub repository
 - Create local git repo with python
 - Create GitHub remote
 
-![Recording](./recording.svg)
+![Recording](https://github.com/Comm3/tutorial-cool-hall/blob/origin/main/recording.svg)
 
 # Repro steps:
 - Copy, open, update and rename dev.env to .env
